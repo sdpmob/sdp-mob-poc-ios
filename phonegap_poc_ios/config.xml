@@ -35,7 +35,7 @@
     <preference name="BackupWebStorage" value="cloud" />
 
     <!-- <content src="tvp-poc/index.html" /> -->
-    <content src="raul.html" />
+    <content src="tvp-poc/index.html" />
 
     <plugins>
         <plugin name="Device" value="CDVDevice" />
